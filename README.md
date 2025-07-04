@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Khushi!
 
-<!--
-**Khushi9912/Khushi9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Scientist who enjoys solving real-world problems using machine learning and analytics.
 
-Here are some ideas to get you started:
+Currently working on:
+- Classification & regression projects
+- Improving my model-building and storytelling skills
+- Preparing for Data Science interviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- Python, Pandas, NumPy, Scikit-learn
+- XGBoost, Random Forest, Logistic Regression
+- SQL, Power BI, Excel, Matplotlib, Seaborn
+
+Projects:
+- [✈Airline Passenger Satisfaction](https://github.com/Khushi9912/Airline-Passenger-Satisfaction-Prediction)  
+- [Bank Term Deposit Prediction](https://github.com/Khushi9912/Bank-Term-Deposit-Prediction)
+ Reach me:
+- [LinkedIn](https://www.linkedin.com/in/khushi-pal-490451214/)
+- khushipal1299@gmail.com
+
