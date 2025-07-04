@@ -15,6 +15,7 @@ Skills:
 Projects:
 - [Airline Passenger Satisfaction](https://github.com/Khushi9912/Airline-Passenger-Satisfaction-Prediction)  
 - [Bank Term Deposit Prediction](https://github.com/Khushi9912/Bank-Term-Deposit-Prediction)
+  
  Reach me:
 - [LinkedIn](https://www.linkedin.com/in/khushi-pal-490451214/)
 - khushipal1299@gmail.com
